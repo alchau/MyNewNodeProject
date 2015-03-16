@@ -1,0 +1,17 @@
+{
+  "name": "MyNewNodeProject",
+  "version": "0.1.0",
+  "description": "First Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Library",
+    "Node",
+    "Does",
+    "Stuff"
+  ],
+  "author": "Andrew Chau",
+  "license": "Apache 2.0"
+}
